@@ -16,12 +16,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <modules>
-        <module>beans</module>
-        <module>slave</module>
-        <module>webapp</module>
-    </modules>
-
     <dependencies>
         <!-- Logging dependencies -->
         <dependency>
